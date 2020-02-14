@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should correct render expenses summary  1`] = `ShallowWrapper {}`;
+
+exports[`should correct render expenses summary  2`] = `ShallowWrapper {}`;
