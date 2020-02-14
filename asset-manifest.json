@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-course-2-expensiffyy-app/static/css/main.cf5788d3.chunk.css",
+    "main.js": "/react-course-2-expensiffyy-app/static/js/main.e1660305.chunk.js",
+    "main.js.map": "/react-course-2-expensiffyy-app/static/js/main.e1660305.chunk.js.map",
+    "runtime-main.js": "/react-course-2-expensiffyy-app/static/js/runtime-main.2ddb6ea3.js",
+    "runtime-main.js.map": "/react-course-2-expensiffyy-app/static/js/runtime-main.2ddb6ea3.js.map",
+    "static/css/2.764ccc25.chunk.css": "/react-course-2-expensiffyy-app/static/css/2.764ccc25.chunk.css",
+    "static/js/2.b0c021de.chunk.js": "/react-course-2-expensiffyy-app/static/js/2.b0c021de.chunk.js",
+    "static/js/2.b0c021de.chunk.js.map": "/react-course-2-expensiffyy-app/static/js/2.b0c021de.chunk.js.map",
+    "index.html": "/react-course-2-expensiffyy-app/index.html",
+    "precache-manifest.ee69e0d5fd83a877df639ce1c22b07e6.js": "/react-course-2-expensiffyy-app/precache-manifest.ee69e0d5fd83a877df639ce1c22b07e6.js",
+    "service-worker.js": "/react-course-2-expensiffyy-app/service-worker.js",
+    "static/css/2.764ccc25.chunk.css.map": "/react-course-2-expensiffyy-app/static/css/2.764ccc25.chunk.css.map",
+    "static/css/main.cf5788d3.chunk.css.map": "/react-course-2-expensiffyy-app/static/css/main.cf5788d3.chunk.css.map",
+    "static/js/2.b0c021de.chunk.js.LICENSE.txt": "/react-course-2-expensiffyy-app/static/js/2.b0c021de.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ddb6ea3.js",
+    "static/css/2.764ccc25.chunk.css",
+    "static/js/2.b0c021de.chunk.js",
+    "static/css/main.cf5788d3.chunk.css",
+    "static/js/main.e1660305.chunk.js"
+  ]
+}
