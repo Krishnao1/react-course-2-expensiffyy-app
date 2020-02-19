@@ -5,10 +5,12 @@ import AppRouter from './routers/AppRouter';
 import configureStore from './store/configureStore';
 import { addExpense } from './actions/expenses.js';
 import getVisibleExpenses from './selectors/expenses';
+// import  '../src/playground/promises/promises';
+
 import 'react-dates/initialize';
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
-
+import './firebase/firebase'
 const store = configureStore();
 
 store.dispatch(addExpense({ description: 'Water bill', amount: 4500 }));
